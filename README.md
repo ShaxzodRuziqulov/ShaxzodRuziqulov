@@ -32,3 +32,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaxzodruziqulov&show_icons=true&locale=en" alt="shaxzodruziqulov" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaxzodruziqulov&" alt="shaxzodruziqulov" /></p>
+[![ShaxzodRuziqulov's GitHub | Languages Over Time](https://stats.quira.sh/ShaxzodRuziqulov/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=ShaxzodRuziqulov)
+[![ShaxzodRuziqulov's GitHub | Languages Over Time](https://stats.quira.sh/ShaxzodRuziqulov/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=ShaxzodRuziqulov)
