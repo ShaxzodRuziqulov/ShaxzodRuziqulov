@@ -1,21 +1,34 @@
-<h1 align="center">Hi 👋, I'm Shaxzod Ro'ziqulov</h1>
-<h3 align="center">Java Developer</h3>
+<h1 align="center">
+Salom  
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+   Men Shaxzod Ro'ziqulovman
+</h1>
+<h3 align="center">
+  <strong style="color: #4CAF50;">Java Developer</strong>
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaxzodruziqulov&label=Profile%20views&color=0e75b6&style=flat" alt="shaxzodruziqulov" /> </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shaxzodruziqulov" alt="shaxzodruziqulov" />
-  </a>
+
+<p align="center">
+  Men Java dasturlash tili bo'yicha mutaxassisman va Spring Boot, PostgreSQL kabi texnologiyalar bilan ishlayman. Yaqinda Telegram botlar yaratishga qiziqishim ortdi va shu sohada o'rganishimni davom ettirmoqdaman. 
 </p>
 
-- 🔭 I’m currently working on [quiz.bot](https://github.com/ShaxzodRuziqulov/quiz.bot)
-- 🌱 I’m currently learning **Telegram bot development**
-- 👯 I’m looking to collaborate on [personnel](https://github.com/ShaxzodRuziqulov/personnel)
-- 💬 Ask me about **Java, Spring Boot, PostgreSQL**
-- 📫 How to reach me **shaxzodruziqulov9919@gmail.com**
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1eKunGh1guC_JCSivnI256T8pmpxyiyD7/view?usp=drive_link)
-- ⚡ Fun fact **I think I am funny**
+<p align="center">
+  Asosiy maqsadim – dasturlash orqali foydalanuvchilar uchun innovatsion yechimlar yaratish va doimo yangi texnologiyalar bilan tanishib borish. 
+</p>
+
+<p align="center">
+  Sizni mening loyiha va tajribalarim bilan tanishtirishdan mamnun bo'laman. Agar hamkorlik qilish yoki savollar bo'lsa, iltimos, bog'laning!
+</p>
+
+
+- 🔭 Hozirda **[quiz.bot](https://github.com/ShaxzodRuziqulov/quiz.bot)** ustida ishlayapman.
+- 🌱 **Telegram bot development** bo'yicha o'rganmoqdaman.
+- 👯 **[personnel](https://github.com/ShaxzodRuziqulov/personnel)** loyihasida tajriba ortirganman.
+- 💬 **Java**, **Spring Boot**, va **PostgreSQL** 
+- 📫 Menga **shaxzodruziqulov9919@gmail.com** orqali murojaat qilishingiz mumkin.
+- 📄 Rezyume [bu yerda](https://drive.google.com/file/d/1eKunGh1guC_JCSivnI256T8pmpxyiyD7/view?usp=drive_link) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
