@@ -23,7 +23,7 @@ Salom
 </p>
 
 
-- 🔭 Hozirda **[quiz.bot](https://github.com/ShaxzodRuziqulov/quiz.bot)** ustida ishlayapman.
+- 🔭 Hozirda **[Currency exchange](https://github.com/ShaxzodRuziqulov/Currency-exchange-)** ustida ishlayapman.
 - 🌱 **Telegram bot development** bo'yicha o'rganmoqdaman.
 - 👯 **[personnel](https://github.com/ShaxzodRuziqulov/personnel)** loyihasida tajriba ortirganman.
 - 💬 **Java**, **Spring Boot**, va **PostgreSQL** 
