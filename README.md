@@ -23,12 +23,11 @@ Salom
 </p>
 
 
-- 🔭 Hozirda **[Currency exchange](https://github.com/ShaxzodRuziqulov/Currency-exchange-)** ustida ishlayapman.
-- 🌱 **Telegram bot development** bo'yicha o'rganmoqdaman.
+- 🔭 Hozirda **[Hotel managment system](https://github.com/ShaxzodRuziqulov/hotel-managment-system)** ustida ishlayapman.
 - 👯 **[personnel](https://github.com/ShaxzodRuziqulov/personnel)** loyihasida tajriba ortirganman.
 - 💬 **Java**, **Spring Boot**, va **PostgreSQL** 
 - 📫 Menga **shaxzodruziqulov9919@gmail.com** orqali murojaat qilishingiz mumkin.
-- 📄 Rezyume [bu yerda](https://drive.google.com/file/d/1eKunGh1guC_JCSivnI256T8pmpxyiyD7/view?usp=drive_link) 
+- 📄 Rezyume [bu yerda](https://drive.google.com/file/d/1eKunGh1guC_JCSivnI256T8pmpxyiyD7/view) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
