@@ -27,7 +27,7 @@ Salom
 - 👯 **[personnel](https://github.com/ShaxzodRuziqulov/personnel)** loyihasida tajriba ortirganman.
 - 💬 **Java**, **Spring Boot**, va **PostgreSQL** 
 - 📫 Menga **shaxzodruziqulov9919@gmail.com** orqali murojaat qilishingiz mumkin.
-- 📄 Rezyume [bu yerda](https://drive.google.com/file/d/1eKunGh1guC_JCSivnI256T8pmpxyiyD7/view) 
+- 📄 Rezyume [bu yerda](https://drive.google.com/file/d/1eKunGh1guC_JCSivnI256T8pmpxyiyD7/view?usp=drive_link) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
