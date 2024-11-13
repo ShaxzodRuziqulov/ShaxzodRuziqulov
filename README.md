@@ -23,8 +23,7 @@ Salom
 </p>
 
 
-- 🔭 Hozirda **[Hotel managment system](https://github.com/ShaxzodRuziqulov/hotel-managment-system)** ustida ishlayapman.
-- 👯 **[personnel](https://github.com/ShaxzodRuziqulov/personnel)** loyihasida tajriba ortirganman.
+- 👯 **Bir nechta loyihalarda tajriba ortirganman.
 - 💬 **Java**, **Spring Boot**, va **PostgreSQL** 
 - 📫 Menga **shaxzodruziqulov9919@gmail.com** orqali murojaat qilishingiz mumkin.
 - 📄 Rezyume [bu yerda](https://github.com/ShaxzodRuziqulov/Shaxzod/blob/main/Ruziqulov%20Shaxzod%20Mexriddinovich%20(3).pdf) 
