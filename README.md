@@ -26,7 +26,7 @@ Salom
 - 👯 **Bir nechta loyihalarda tajriba ortirganman.
 - 💬 **Java**, **Spring Boot**, va **PostgreSQL** 
 - 📫 Menga **shaxzodruziqulov9919@gmail.com** orqali murojaat qilishingiz mumkin.
-- 📄 Rezyume [bu yerda](https://github.com/ShaxzodRuziqulov/Shaxzod/blob/main/Blue%20Simple%20Professional%20CV%20Resume%20(1).pdf) 
+- 📄 Rezyume [bu yerda](https://github.com/ShaxzodRuziqulov/Shaxzod/blob/main/CV%20Resume.pdf) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
